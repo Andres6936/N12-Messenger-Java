@@ -26,3 +26,11 @@ hs_err_pid*
 .project
 .classpath
 out/
+
+# Derby
+data/amigos/
+
+# Excluir
+
+!lib/Derby.jar
+!lib/JUnit.jar
