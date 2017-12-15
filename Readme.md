@@ -20,10 +20,13 @@ una base de datos relacional (Derby), a la que se tiene acceso desde la aplicaci
 # Interfaz
 
 ![GUI](docs/specs/VentanaMain.png)
+
 	Ventana Principal del Cliente
 
-![Conversacion](docs/spec/Conversacion.png)
+![Conversacion](docs/specs/Conversacion.png)
+
 	Ventana de conversación del cliente
 
 ![Servidor](docs/specs/Servidor.png)
+
 	Ventana Principal del Servidor
